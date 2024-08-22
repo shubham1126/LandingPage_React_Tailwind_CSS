@@ -14,7 +14,7 @@ const Hero = () => {
 
           {/* hero section content here */}
           <div className="hero-text">
-            <h1 className="text-[52px] font-bold">
+            <h1 className=" text-[24px] sm:text-[40px] md:text-[52px] font-bold">
               Lessons and insights from 8 years
             </h1>
             <div className="grid grid-col">
