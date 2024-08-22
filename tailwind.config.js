@@ -6,6 +6,9 @@ export default {
   ],
   theme: {
     extend: {
+      colors: {
+        navbar: "#4CAF4F",
+      
       container:{
         center: true,
         padding:{
@@ -14,6 +17,7 @@ export default {
         }
       }
     },
+  }
   },
   plugins: [],
 }
