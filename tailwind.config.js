@@ -8,6 +8,8 @@ export default {
     extend: {
       colors: {
         navbar: "#4CAF4F",
+        bg_hero:"#F5F7FA",
+        footer:"#263238",
       
       container:{
         center: true,
